@@ -22,5 +22,5 @@ The focus of our analysis will be around event_type, product_id, category_code, 
 If brand X were to sell product Y what would be the expected price?
 What users buy the most products? What product(s)?
 
-**The team working on this repository are communicating through SLACK**
+_The team working on this repository are communicating through SLACK_
 
