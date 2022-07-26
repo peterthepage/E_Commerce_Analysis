@@ -1,3 +1,4 @@
+![ecomm_image](https://user-images.githubusercontent.com/100390727/180898274-f094b0b7-4536-40fe-93ed-001a449849c3.png)
 
 
 # Project Overview
