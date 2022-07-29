@@ -32,3 +32,4 @@ What users buy the most products? What product(s)?
 ## Machine Learning Model
 
 _The team working on this repository are communicating through SLACK_
+
