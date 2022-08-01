@@ -35,3 +35,4 @@ _The team working on this repository are communicating through SLACK_
 
 ## Tableau Visualizations
 https://public.tableau.com/app/profile/adam.joy3740/viz/TopBrandsCategoriesDashboard/Dashboard1
+https://public.tableau.com/app/profile/adam.joy3740/viz/Cart_oct_2019/Sheet1?publish=yes
