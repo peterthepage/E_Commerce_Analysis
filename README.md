@@ -32,3 +32,6 @@ What users buy the most products? What product(s)?
 ## Machine Learning Model
 
 _The team working on this repository are communicating through SLACK_
+
+## Tableau Visualizations
+https://public.tableau.com/app/profile/adam.joy3740/viz/TopBrandsCategoriesDashboard/Dashboard1
