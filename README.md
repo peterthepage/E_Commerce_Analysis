@@ -72,9 +72,9 @@ Logistic Regression was chosen because the question we are trying to answer is a
 
 _The team working on this repository are communicating through SLACK_
 
-<<<<<<< HEAD
-=======
+
+
 ## Tableau Visualizations
 https://public.tableau.com/app/profile/adam.joy3740/viz/TopBrandsCategoriesDashboard/Dashboard1
 https://public.tableau.com/app/profile/adam.joy3740/viz/Cart_oct_2019/Sheet1?publish=yes
->>>>>>> 8a10956636271411884063c906c265b9ec610c96
+
