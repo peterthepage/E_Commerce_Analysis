@@ -42,19 +42,6 @@ Sorting out how many views were made of items, how many times items were added t
 
 ## Technologies Used
 
-- Python
-- Pandas
-- AWS
-- Tableau
-- Jupyter Notebook
-- Postgres SQL (pgAdmin)
-- Google Slides
-
-## Database
-
-### ERD
-
-![ERD](https://github.com/AMJ1995/E_Commerce_Analysis/blob/ChrisBranch/Resources/Images/Cleaned_ECommerce_ERD.png)
 
 ## Machine Learning Model
 
@@ -72,9 +59,9 @@ Logistic Regression was chosen because the question we are trying to answer is a
 
 _The team working on this repository are communicating through SLACK_
 
+
 ## Tableau Visualizations
 https://public.tableau.com/app/profile/adam.joy3740/viz/TopBrandsCategoriesDashboard/Dashboard1
 https://public.tableau.com/app/profile/adam.joy3740/viz/Cart_oct_2019/Sheet1?publish=yes
 
-## Google Slides Presentation
-https://docs.google.com/presentation/d/1OEXk-PdzL35VCIkZmoJKg7Pm75DpVYqanqhUKytyYg0/edit?usp=sharing
+
