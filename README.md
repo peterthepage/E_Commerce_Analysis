@@ -58,7 +58,7 @@ Sorting out how many views were made of items, how many times items were added t
 
 ### Join Statement in pg Admin
 
-![Join]('Resources/Images/Join Statement.png')
+![Join](Resources/Images/Join Statement.png)
 
 ## Machine Learning Model
 
