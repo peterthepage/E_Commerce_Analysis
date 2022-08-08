@@ -56,6 +56,10 @@ Sorting out how many views were made of items, how many times items were added t
 
 ![ERD](https://github.com/AMJ1995/E_Commerce_Analysis/blob/ChrisBranch/Resources/Images/Cleaned_ECommerce_ERD.png)
 
+### Join Statement in pg Admin
+
+![Join](Resources/Images/Join_Statement.png)
+
 ## Machine Learning Model
 
 We are using the Logistic Regression machine learning model, apart of the sklearn library.
@@ -72,6 +76,9 @@ Logistic Regression was chosen because the question we are trying to answer is a
 
 _The team working on this repository are communicating through SLACK_
 
+
+
 ## Tableau Visualizations
 https://public.tableau.com/app/profile/adam.joy3740/viz/TopBrandsCategoriesDashboard/Dashboard1
 https://public.tableau.com/app/profile/adam.joy3740/viz/Cart_oct_2019/Sheet1?publish=yes
+
