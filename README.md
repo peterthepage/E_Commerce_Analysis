@@ -5,13 +5,13 @@
 E-commerce is a rapidly growing corner of the global consumer market. As more customers find it is easier to shop on their phones and computers, big box retailers are struggling to match the demand of their rapidly growing online counterparts. The behavior of an online consumer is different than that of an in-person shopper. The user is no longer restricted to the pervasive nature of a physical shopping cart. Instead, an online shopper has ability to shop at their own pace with the ability to add and remove items from their cart in an instant without the concern of any physical or social aspects of in-person shopping. The analysis of this project is centered around this change in the behaviors of the consumer. Our team will accurately advise market brands using the data we collected and visualize how these products compete with others on the digital market and what products consumers want in their carts.
 
 # Links to Project Sections
-[Data Information](#data-information)
-[Data Analysis Progress](#data-analysis-progress)
-[Technologies Used](#technologies-used)
-[Database](#database)
-[Machine Learning Model](#machine-learning-model)
-[Tableau Visualizations](#tableau-visualizations)
-[Google Slides](#google-slides)
+- [Data Information](#data-information)
+- [Data Analysis Progress](#data-analysis-progress)
+- [Technologies Used](#technologies-used)
+- [Database](#database)
+- [Machine Learning Model](#machine-learning-model)
+- [Tableau Visualizations](#tableau-visualizations)
+- [Google Slides](#google-slides)
 
 ## Data Information
 
