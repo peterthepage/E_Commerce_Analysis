@@ -4,6 +4,15 @@
 # Project Overview
 E-commerce is a rapidly growing corner of the global consumer market. As more customers find it is easier to shop on their phones and computers, big box retailers are struggling to match the demand of their rapidly growing online counterparts. The behavior of an online consumer is different than that of an in-person shopper. The user is no longer restricted to the pervasive nature of a physical shopping cart. Instead, an online shopper has ability to shop at their own pace with the ability to add and remove items from their cart in an instant without the concern of any physical or social aspects of in-person shopping. The analysis of this project is centered around this change in the behaviors of the consumer. Our team will accurately advise market brands using the data we collected and visualize how these products compete with others on the digital market and what products consumers want in their carts.
 
+# Links to Project Sections
+- [Data Information](#data-information)
+- [Data Analysis Progress](#data-analysis-progress)
+- [Technologies Used](#technologies-used)
+- [Database](#database)
+- [Machine Learning Model](#machine-learning-model)
+- [Tableau Visualizations](#tableau-visualizations)
+- [Google Slides](#google-slides)
+
 ## Data Information
 
 ### Description of data source:
@@ -33,6 +42,12 @@ Whether a user will purchase an item placed in their cart.
 Going through the columns in the data and determining what are the columns needed to answer the question we want answered.
 
 Sorting out how many views were made of items, how many times items were added to a user’s cart, and how many times items were purchased.
+
+![Event Types](Resources/Images/vcpoutput.png)
+
+In analyzing the data, we found the top 5 brands purchased in the month of November:
+
+![Top 5 Brands Nov](Resources/Images/top_fivebrands.png)
 
 ## Technologies Used
 
@@ -64,7 +79,19 @@ Logistic Regression was chosen because the question we are trying to answer is a
 
 The data was split into training and testing sets through a few different parameters. With X holding the columns 'price', 'event_weekday', and 'activity_count' and y holding the 'is_purchased' column. The 'is_purchased' column is key in answering the question the team has set out to answer: whether a user who places an item in their cart will purchase it.
 
+![MLM Features](Resources/Images/lr_mlmtts.png)
+
 The model was trained with the LogisticRegression class from the sklearn.linear_model library. The accuracy percentage first achieved was approximately 53%. After adding the lightgbm gradient boosting framework, the accuracy percentage increased to nearly 70%.
+
+![MLM Results](Resources/Images/lr_mlmtts2.png)
+
+![MLM Results LGBM](Resources/Images/lgbm.png)
+
+To get an idea of the accuracy of the model, a confusion matrix was used:
+
+![Confusion Matrix](Resources/Images/con_mat.png)
+
+The confusion matrix shows the number of truly accurate results (31.63%), truly negative results (21.24%), and those that are falsely labeled either negative (28.76%) or positive (18.37%).
 
 Given more time, the team would have liked to improve the accuracy of the model through more training, and possibly taking data from other months.  Currently, the accuracy of the model only sits at 57.3%.
 
@@ -84,7 +111,12 @@ To predict whether the product added to the cart is actually purchased by the cu
 
 The training dataset contains every non-duplicated cart transaction with above mentioned features. We will use these features with their original price and brand to predict whether the customer will eventually purchase the item in the cart.
 
+![Feature Importance](Resources/Images/feat_imp.png)
+
 ## Tableau Visualizations
+
+![Dashboard](Resources/Images/dashboard.png)
+
 https://public.tableau.com/app/profile/adam.joy3740/viz/TopBrandsCategoriesDashboard/Dashboard1
 https://public.tableau.com/app/profile/adam.joy3740/viz/Cart_oct_2019/Sheet1?publish=yes
 
