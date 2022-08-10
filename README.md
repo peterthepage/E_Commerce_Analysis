@@ -101,7 +101,7 @@ The initial datasets were first downloaded from Kaggle, and then read into a dat
 
 ### Description of Features
 
-To predict whether the product added to the cart is actually purchased by the customer based on factors such as its category, event_weekday, and actiity of the user in that session, we need new features in training data:
+To predict whether the product added to the cart is actually purchased by the customer based on factors such as its category, event_weekday, and activity of the user in that session, we need new features in training data:
 
 - category_code_level1 - category
 - category_code_level2 - subcategory
